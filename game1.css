@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-color: DodgerBlue;
+	padding: 10px;
+}
+#myCanvas{
+	background: #eee;
+	display: block;
+	margin: 0 auto;
+}
+ 
+h1{
+    color: White;
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin: 5px;
+
+}
+h2{
+	color: White;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-align: left;
+ 
+}
+p{
+	font-family: Arial;
+	color: white;
+}
+button{
+	color: rgba(7,9,254,1);
+	font-size: 20px;
+    padding: 5px;
+    margin: 2px 2px 2px 0px;  
+}
+button:hover{
+	background-color: DodgerBlue;
+	border-color: black; 
+}
